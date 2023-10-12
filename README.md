@@ -1,1 +1,3 @@
-# Polls-Application-Django-Project-
+# Polls-Application-Django-Project
+
+The Django poll project is a beginner-friendly web application example that demonstrates the key components of the Django web framework. It includes models for questions and choices, views for listing questions, displaying question details, and handling user votes, templates for rendering HTML, URL patterns for routing, and a simple admin interface. Users can view a list of questions, access individual questions, vote on choices, and see vote results. The project is an educational tool for learning Django's core concepts, making it an excellent starting point for web development with Django.
